@@ -10,5 +10,5 @@
 6. What is the command to quit Emacs?
 
 
-100. What is the command to play Tetris inside Emacs?
-101. What is the command to talk to your doctor?
+- What is the command to play Tetris inside Emacs?
+- What is the command to talk to your doctor?
