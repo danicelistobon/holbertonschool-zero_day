@@ -7,6 +7,5 @@
 4. What is the command to search forward?
 5. What is the command to undo?
 6. What is the command to quit Emacs?
-
 100. What is the command to play Tetris inside Emacs?
 101. What is the command to talk to your doctor?
